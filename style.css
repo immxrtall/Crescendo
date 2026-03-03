@@ -6,13 +6,13 @@ body {
 
 h3 {
     text-align: center;
-    color: yellow;
+    color:blueviolet;
     margin-top: 10px;
     margin-bottom: 30px;
 }
 
 h3 a {
-    color: yellow;
+    color: blueviolet;
     text-decoration: none;
 }
 
@@ -86,13 +86,3 @@ li {
     text-align: left;
 }
 
-a {
-    color: green;
-    font-style: italic;
-    text-decoration: underline;
-    margin: 0 10px;
-}
-
-a:hover {
-    color: darkgreen;
-}
